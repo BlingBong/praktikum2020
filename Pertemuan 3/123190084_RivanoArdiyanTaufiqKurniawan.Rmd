@@ -3,8 +3,8 @@ title: "Tugas Modul 3"
 author: "Rivano Ardiyan Taufiq Kurniawan"
 date: "9/29/2021"
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
 ---
